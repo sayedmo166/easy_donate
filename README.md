@@ -1,4 +1,4 @@
-# dounts_store
+# easy_donate
 
 A new Flutter project.
 
